@@ -1,2 +1,2 @@
-# credit_scoring
-Some useful python functions for building credit risk score card model.
+# credit scoring
+Some python functions for developing standard credit score card model using logistic regression.
